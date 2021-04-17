@@ -6,13 +6,13 @@
 
 <h2>Structure</h2>
 <pre>
-E:.
-├───.idea
-│   └───inspectionProfiles
 ├───Feature_Extraction
 │   ├───detect_facial_blob
 │   │   └───model_data
 │   └───real_time_feature_extraction_with_webcam
-│       └───model_data
+│   │    └───model_data
+│   └───compute_dense_optical_flow.py
+│   └───compute_mel_spectrogram.py
+│   └───compute_sparse_optical_flow.py
 └───Model
 </pre>
