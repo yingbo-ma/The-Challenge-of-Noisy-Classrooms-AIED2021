@@ -41,3 +41,6 @@ keras 2.3.1
 │   └───compute_sparse_optical_flow.py
 └───Model
 </pre>
+
+<h2>Visual and Acoustic Feature Extraction</h2>
+![alt text](./Images/feature%20extraction%20process.jpg)
