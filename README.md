@@ -42,5 +42,7 @@ keras 2.3.1
 └───Model
 </pre>
 
-<h2>Visual and Acoustic Feature Extraction</h2>
-![alt text](./Images/feature%20extraction%20process.jpg)
+<h2>Other Supplementary Materials</h2>
+<p>Please refer to the image files in './Images/' path.</p>
+<p>1. Annotation Example</p>
+<p>2. Feature Extraction Process</p>
