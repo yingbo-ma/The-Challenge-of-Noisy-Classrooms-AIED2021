@@ -6,6 +6,14 @@
 <h3>Introduction</h3>
 <p>Adaptive and intelligent collaborative learning support systems are effective for supporting learning and building strong collaborative skills. This potential has not yet been realized within noisy classroom environments, where automated speech recognition (ASR) is very difficult. A key challenge is to differentiate each learner’s speech from the background noise, which includes the teachers’ speech as well as other groups’ speech. In this paper, we explore a multimodal method to identify speakers by using visual and acoustic features from ten video recordings of children pairs collaborating in an elementary school classroom. The results indicate that the visual modality was better for identifying the speaker when in-group speech was detected, while the acoustic modality was better for differentiating in-group speech from background speech. Our analysis also revealed that recurrent neural network (RNN)-based models outperformed convolutional neural network (CNN)-based models with higher speaker detection F-1 scores. This work represents a critical step toward the classroom deployment of intelligent systems that support collaborative learning.</p>
 <h3>Citation</h3>
+@inproceedings{ma2021challenge,
+  title={The Challenge of Noisy Classrooms: Speaker Detection During Elementary Students’ Collaborative Dialogue},
+  author={Ma, Yingbo and Wiggins, Joseph B and Celepkolu, Mehmet and Boyer, Kristy Elizabeth and Lynch, Collin and Wiebe, Eric},
+  booktitle={International Conference on Artificial Intelligence in Education},
+  pages={268--281},
+  year={2021},
+  organization={Springer}
+}
 <pre></pre>
 
 
