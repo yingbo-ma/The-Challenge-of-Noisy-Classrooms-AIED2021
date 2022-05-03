@@ -1,4 +1,4 @@
-from test_functions import read_excel, spectrogram_data_prepare, optical_flow_data_prepare, multiple_inputs_model
+from support_functions import read_excel, spectrogram_data_prepare, optical_flow_data_prepare, multiple_inputs_model
 import numpy as np
 from sklearn.metrics import classification_report
 
